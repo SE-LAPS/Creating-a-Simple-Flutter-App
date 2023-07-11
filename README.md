@@ -1,4 +1,4 @@
-# Creating a Simple Flutter App
+# Creating a Simple Flutter App🌟
 
 A new Flutter project.
 
