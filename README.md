@@ -1,4 +1,4 @@
-# simple_app
+# Creating a Simple Flutter App
 
 A new Flutter project.
 
